@@ -1,4 +1,5 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     faraday (0.12.2)
       multipart-post (>= 1.2, < 3)
@@ -22,6 +23,9 @@ DEPENDENCIES
   faraday
   json
   sinatra
+
+RUBY VERSION
+   ruby 2.4.1p111
 
 BUNDLED WITH
    1.15.3
